@@ -27,11 +27,6 @@ Repository:
 https://github.com/Aki-Mintz/Family-Income-Expenditure-Analysis-.git
 
 
-### Environmental Data Analysis
-Analyzed environmental datasets and performed statistical analysis for research purposes.
-
-Repository:
-https://github.com/Aki-Mintz/environmental-data-analysis
 
 ## Certifications
 
