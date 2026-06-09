@@ -4,7 +4,7 @@
 
 Aspiring Data Analyst with experience in SQL, Excel, Power BI, Tableau, and Python.
 
-## Skills
+## Technical Skills
 
 - SQL
 - Excel
@@ -12,16 +12,40 @@ Aspiring Data Analyst with experience in SQL, Excel, Power BI, Tableau, and Pyth
 - Tableau (Basic)
 - Python (Basic)
 
-## Projects
+## Featured Projects
 
 ### Retail Sales Analysis
-Analyzed sales data using SQL and Excel to identify revenue trends and top-performing products.
+Analyzed retail sales data using SQL and Excel to identify revenue trends and top-performing products.
+
+Repository:
+https://github.com/Aki-Mintz/retail-sales-analysis
 
 ### Family Income & Expenditure Analysis
 Used SQL and Excel to analyze household income and spending patterns.
 
+Repository:
+https://github.com/Aki-Mintz/family-income-expenditure-analysis
+
 ### Sales Database Analysis
-Performed SQL queries to uncover business insights from sales transactions.
+Performed SQL queries to identify product performance and monthly sales trends.
+
+Repository:
+https://github.com/Aki-Mintz/sales-database-analysis
 
 ### Environmental Data Analysis
-Analyzed temperature and humidity data for silkworm rearing system research.
+Analyzed environmental datasets and performed statistical analysis for research purposes.
+
+Repository:
+https://github.com/Aki-Mintz/environmental-data-analysis
+
+## Certifications
+
+- Associate Data Engineer in SQL (DataCamp)
+- Introduction to Power BI (DataCamp)
+- Intermediate SQL (DataCamp)
+- Data Analytics Essentials (Cisco)
+
+## Contact
+
+Email: aliezaaki17@gmail.com
+LinkedIn: www.linkedin.com/in/cris-alieza-arapiles-de
