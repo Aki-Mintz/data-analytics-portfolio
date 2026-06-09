@@ -26,11 +26,6 @@ Used SQL and Excel to analyze household income and spending patterns.
 Repository:
 https://github.com/Aki-Mintz/Family-Income-Expenditure-Analysis-.git
 
-### Sales Database Analysis
-Performed SQL queries to identify product performance and monthly sales trends.
-
-Repository:
-https://github.com/Aki-Mintz/sales-database-analysis
 
 ### Environmental Data Analysis
 Analyzed environmental datasets and performed statistical analysis for research purposes.
