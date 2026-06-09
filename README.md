@@ -24,7 +24,7 @@ https://github.com/Aki-Mintz/retail-sales-analysis
 Used SQL and Excel to analyze household income and spending patterns.
 
 Repository:
-https://github.com/Aki-Mintz/family-income-expenditure-analysis
+https://github.com/Aki-Mintz/Family-Income-Expenditure-Analysis-.git
 
 ### Sales Database Analysis
 Performed SQL queries to identify product performance and monthly sales trends.
