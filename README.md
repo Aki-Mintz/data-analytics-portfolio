@@ -18,7 +18,7 @@ Aspiring Data Analyst with experience in SQL, Excel, Power BI, Tableau, and Pyth
 Analyzed retail sales data using SQL and Excel to identify revenue trends and top-performing products.
 
 Repository:
-https://github.com/Aki-Mintz/retail-sales-analysis
+https://github.com/Aki-Mintz/RETAIL_SALES_ANALYSIS.git
 
 ### Family Income & Expenditure Analysis
 Used SQL and Excel to analyze household income and spending patterns.
